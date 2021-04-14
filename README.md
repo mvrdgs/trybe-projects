@@ -11,4 +11,4 @@ Os códigos serão adicionados conforme o avanço no curso. Cada projeto contém
 [**3.3 Projeto Mistery Letter (Bonus)**](https://github.com/tryber/sd-010-a-project-mistery-letter/pull/9)  
 [**4. Projeto Facebook Sign Up**](https://github.com/tryber/sd-010-a-project-facebook-signup/pull/25)  
 [**5. Projeto Unit Tests**](https://github.com/tryber/sd-010-a-project-js-unit-tests/pull/32)  
-[**6. Projeto Zoo Functions**](https://github.com/tryber/sd-010-a-project-js-unit-tests/pull/32)  
+[**6. Projeto Zoo Functions**](https://github.com/tryber/sd-010-a-project-zoo-functions/pull/17)  
