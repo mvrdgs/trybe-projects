@@ -16,4 +16,4 @@ Os códigos serão adicionados conforme o avanço no curso. Cada projeto contém
 [**8. Projeto Jest Assíncrono e Mocking**](https://github.com/tryber/sd-010-a-project-jest/pull/53)  
 [**9. Projeto Movie Cards Library**](https://github.com/tryber/sd-010-a-project-movie-cards-library/pull/58)  
 [**10. Projeto Movie Cards Library - Stateful**](https://github.com/tryber/sd-010-a-project-movie-cards-library-stateful/pull/47)  
-[**13. Projeto Movie Cards Library - CRUD**](https://github.com/tryber/sd-010-a-project-movie-card-library-crud/pull/36)  
+[**11. Projeto Movie Cards Library - CRUD**](https://github.com/tryber/sd-010-a-project-movie-card-library-crud/pull/36)
