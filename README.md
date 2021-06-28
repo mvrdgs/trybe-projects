@@ -69,3 +69,27 @@ Os códigos serão adicionados conforme o avanço no curso. Cada projeto contém
    - Primeiro projeto utilizando navegação entre páginas no React
    - Tecnologias utilizadas: React, JavaScript, CSS
    - Proposta: Aprimorar o projeto Movie Cards Library - Stateful permitindo navegar entre páginas da aplicação e manipular (editar, incluir e deletar) Cards
+0. [**Projeto Frontend Online Store**](https://github.com/tryber/sd-010-a-project-frontend-online-store/pull/393)
+   - Realizado dia 14/05/2021
+   - Primeiro projeto em grupo utilizando metodologias ágeis
+   - Tecnologias utilizadas: React, Javascript, CSS
+   - Proposta: Consolidar os conhecimentos adquiridos em um projeto em um grupo de 5 pessoas, utilizando metodologias ágeis (Kanban, Scrum) e ferramentas como Trello e Figma.
+0. [**Projeto React Testing Library**](https://github.com/tryber/sd-010-a-project-react-testing-library/pull/51)
+   - Realizado em 25/05/2021
+   - Tecnologias utilizadas: React, Javascript, Jest, React Testing Library
+   - Proposta: Desenvolver testes para uma aplicação que já estava completa. Foi utilizado o [Stryker Mutator](https://stryker-mutator.io/) para avaliar a eficácia dos teses
+0. [**Projeto Trybe Wallet**](https://github.com/tryber/sd-010-a-project-trybewallet/pull/24)
+   - Realizado em 08/06/2021
+   - Primeiro projeto utilizando Redux
+   - Tecnologias utilizadas: React, Javascript, CSS, Redux
+   - Proposta: Desenvolver uma aplicação de controle de gastos pessoas. A aplicação faz uma planilha onde os gastos ficam salvos, também oferece a opção de converter os gastos para real. Para isso foi utilizado a API de convesão de moedas [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas)
+0. [**Projeto Jogo de Trivia**](https://github.com/tryber/sd-010-a-project-trivia-react-redux/pull/231)
+   - Realizado em 14/06/2021
+   - Projeto em grupo para consolidar conhecimentos e desenvolver Soft SKills
+   - Tecnologias utilizadas: React, Javascript, CSS, Redux
+   - Proposta: Desenvolver um jogo de perguntas e respostas com página de login, página do jogo, página de estatísticas e ranking
+0. [**Projeto StarWars Planets Search em Context API e Hooks**](https://github.com/tryber/sd-010-a-project-starwars-planets-search/pull/7)
+   - Realizado em 24/06/2021
+   - Primeiro projeto utilizando Hooks e ContextAPI
+   - Tecnologias utilizadas: React, Javascript
+   - Proposta: Desenvolver uma aplicação que recebe dados de planetas do universo Star Wars através de uma API e cria uma tabela com essas informações, possibilitando filtra-las e/ou ordena-las em ordem alfabética ou numérica.
