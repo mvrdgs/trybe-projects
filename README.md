@@ -77,7 +77,7 @@ Os códigos serão adicionados conforme o avanço no curso. Cada projeto contém
 0. [**Projeto React Testing Library**](https://github.com/tryber/sd-010-a-project-react-testing-library/pull/51)
    - Realizado em 25/05/2021
    - Tecnologias utilizadas: React, Javascript, Jest, React Testing Library
-   - Proposta: Desenvolver testes para uma aplicação que já estava completa. Foi utilizado o [Stryker Mutator](https://stryker-mutator.io/) para avaliar a eficácia dos teses
+   - Proposta: Desenvolver testes para uma aplicação que já estava completa. Foi utilizado o [Stryker Mutator](https://stryker-mutator.io/) para avaliar a eficácia dos testes
 0. [**Projeto Trybe Wallet**](https://github.com/tryber/sd-010-a-project-trybewallet/pull/24)
    - Realizado em 08/06/2021
    - Primeiro projeto utilizando Redux
